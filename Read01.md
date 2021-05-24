@@ -33,5 +33,3 @@ While the code in HTML that will show the same list will look like this:
 `</ol>`
 
 For more information you can visit this [link](https://guides.github.com/features/mastering-markdown/).
-
-
