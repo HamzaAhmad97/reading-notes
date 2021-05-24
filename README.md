@@ -28,6 +28,6 @@ Speaking about myself, I belive that I have succeeded maintaining a growth minds
 
 I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, graduated in 2020. I have some knowledge on Java and Python, and I am currently on my way to become a full stack engineer. I am interested in AI, ML and web development, I also have a bit of experience in robotic manipulation and modeling. 
 
-You can check my porfolio on [Github](https://github.com/HamzaAhmad97).
+You can check my portfolio on [Github](https://github.com/HamzaAhmad97).
 
 ###### Last edited on 24th of May 2021.
