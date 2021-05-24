@@ -18,7 +18,7 @@ It is known that when people belivw that they can get smarter and stronger, they
 * Challenges, they **embrace** them :grinning:.
 * Obstacles, they **persist** :muscle:.
 * Cretisism, they **learn from them** :brain:.
-* success of others, they **get insoired by them** :100:.
+* success of others, they **get inspired by them** :100:.
 
 ## How do I keep myself in a growth mindset?
 
