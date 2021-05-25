@@ -1,4 +1,4 @@
-# Growth mindset
+# Growth Mindset
 
 ![Growth mindset vs fixed mindset](https://blog.cengage.com/wp-content/uploads/2020/11/blog-growth-mindset-1511130.png)
 
