@@ -32,7 +32,7 @@ There are a number of types of operators on Javascript, operators usualy operate
 * Comparison operators --> **Example: >**
 * Arithmetic operators --> **Example: +**
 * Bitwise operators --> **Example: >>>**
-* Logical operators --> **Example:||**
+* Logical operators --> **Example: or**
 * String operators --> **Example: +**
 * Conditional (ternary) operator --> **Example:  ? :**
 * Comma operator --> **Example: ,**
