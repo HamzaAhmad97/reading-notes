@@ -6,6 +6,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 
 | Section             | link          | 
 | -------------       |:-------------:| 
-| Intro about myself  | right-aligned |
+| Intro about myself  | This page |
 | Read: 01 file       | [Read: 01 - Learning Markdown](https://hamzaahmad97.github.io/reading-notes/Read01).      |
 | Read: 02 file       | [Read: 02 - Revisions and the Cloud](https://hamzaahmad97.github.io/reading-notes/Read02).     |
