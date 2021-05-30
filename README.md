@@ -9,5 +9,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Intro about myself  | This page |
 | Read: 01 file       | [Read: 01 - Learning Markdown](https://hamzaahmad97.github.io/reading-notes/Read01).      |
 | Read: 02 file       | [Read: 02 - Revisions and the Cloud](https://hamzaahmad97.github.io/reading-notes/Read02).     |
-
+|Read: 03 file |[Read: 03 - Structure web pages with HTML](https://hamzaahmad97.github.io/reading-notes/Read03-structure_web_pages_with_HTML). |
+|Read: 04 file |[Read: 04 - Dynamic web pages with Javascript](https://hamzaahmad97.github.io/reading-notes/Read04_DynamicWebPagesWithJavaScript). |
+|Read: 05 file |[Read: 05 - Operators and loops](https://hamzaahmad97.github.io/reading-notes/Read05-OperatorsAndLoops). |
 Using Github Pages.
