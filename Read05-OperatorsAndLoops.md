@@ -25,7 +25,7 @@ The image below shows the structure of a for loop.
 ## Operators
 
 
-Expressions are lines of code that result with a value, usually, expressions consist of a number of operators that have special functions which also operate on a number of operands to yeild the result, for example, among the logical operators os the 'or' operator or '||' which operates on two boolean values and returns false only if both operands are false.
+Expressions are lines of code that result with a value, usually, expressions consist of a number of operators that have special functions which also operate on a number of operands to yeild the result, for example, among the logical operators is the 'or' operator or '||' which operates on two boolean values and returns false only if both operands are false.
 
 Types of operators:
 
