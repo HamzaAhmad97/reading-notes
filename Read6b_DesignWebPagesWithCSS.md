@@ -16,11 +16,11 @@ CSS style sheets usually contain a number of **rules** which themselves are brok
 
 There are a number of ways that you can implement a set of style rules, they are almost the same since we use the `<style>` element to say that we are using a style sheet:
 
-1. **Inline CSS**: is the most specific type of styles since it has the highest proiorities. You just use **script** as an attribute inside the openning tag of an element. 
+* **Inline CSS**: is the most specific type of styles since it has the highest proiorities. You just use **script** as an attribute inside the openning tag of an element. 
 
 `<p style="color: red;">...</p>`
 
-2. **Internal CSS**: you include the style rules also in the style element but the difference here is that it must be included in the `<head>` element.
+* **Internal CSS**: you include the style rules also in the style element but the difference here is that it must be included in the `<head>` element.
 
 `<head>`
 
@@ -28,7 +28,7 @@ There are a number of ways that you can implement a set of style rules, they are
 
 `</head>`
 
-3. **External CSS**: also included in the `<head>` element but here we do not actually add the rules between the tags of the style element, but instead we add the href attribute in the tag of the link element and provide the url for the style sheet.
+* **External CSS**: also included in the `<head>` element but here we do not actually add the rules between the tags of the style element, but instead we add the href attribute in the tag of the link element and provide the url for the style sheet.
 
 `<link rel="stylesheet" href="mystyle.css">`
 
