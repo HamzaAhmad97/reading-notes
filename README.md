@@ -16,4 +16,5 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: 6b file       | [Read: 6b - Design Web Pages With CSS](https://hamzaahmad97.github.io/reading-notes/Read6b_DesignWebPagesWithCSS). |
 | Code 201                            ||
 | Read: 01 file (class-01.md) | [Read: 01 - Introductory HTML and JavaScript](https://hamzaahmad97.github.io/reading-notes/class-01)|
+| Read: 02 file (class-02.md) | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://hamzaahmad97.github.io/reading-notes/class-02)|
 Using Github Pages by Hamza Ahmad.
