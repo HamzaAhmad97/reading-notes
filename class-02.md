@@ -148,7 +148,7 @@ Looping simply refers to the action of executing someting a number of times, som
 
 `if (counter; condition ; increment/ decrement) {`
 
-`	// execute this if true`
+`	// execute this many times`
 
 `}`
 
