@@ -24,7 +24,9 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: 02 file (class-02.md) | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://hamzaahmad97.github.io/reading-notes/class-02)|
 | Read: 03 file       | [Read: 03 - HTML Lists,CSS Boxes, JS Control Flow](https://hamzaahmad97.github.io/reading-notes/Read03-HTMLListsCSSBoxesJSControlFlow)|
 | Read: 04 file | [Read: 04 - HTML Links, CSS Layout, JS Functions](https://hamzaahmad97.github.io/reading-notes/Read04-HTMLLinksCSSLayoutJSFunctions)|
-| Read: 05 file | [Read: 05 - HTML Images CSS Color And Text](Read05-HTMLImagesCSSColorAndText.md)|
+| Read: 05 file | [Read: 05 - HTML Images CSS Color And Text](https://hamzaahmad97.github.io/reading-notes/Read05-HTMLImagesCSSColorAndText)|
+| Read: 06 file | [Read06-JSObjectLiteralsTheDOM](https://hamzaahmad97.github.io/reading-notes/Read06-JSObjectLiteralsTheDOM) |
+
 
 
 
