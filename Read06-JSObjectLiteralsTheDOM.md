@@ -8,13 +8,13 @@ You can think of anything as an object, since everything has properties like for
 
 In order to define an object, you can use the literal notation or the constructor which will br descussed in other readings. To define an object you use a couple of curly braces and between them, you define the properties and the methods you want to include for the object, note that properties are basically some of the variables we used before to store values, and methods are also just functions that allow us to interact with the object or to make the object itself interactive.
 
-1. ` let cat = {`
-2. `    age: 1,`
-3. `    meow: function() {`
-`    console.log('meow');`
-`      }`
+1.  ` let cat = { `
+2.  `    age: 1,`
+3.  `    meow: function() { `
+`     console.log('meow');`
+`       } `
 
-4. `}`
+4.  ` } `
 
 In line 1 we define a variable to hold a reference to our object and we named it cat, and in the second line we defined a property named age which only saves the age of the cat as a number, and lastly, we defined a variable named meow to hold a reference to a function that does something, thus a method, then we close the curly braces.
 
