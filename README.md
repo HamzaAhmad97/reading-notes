@@ -30,6 +30,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: 08 file | [Read: 08 - More CSS Layout](https://hamzaahmad97.github.io/reading-notes/Read08-MoreCSSLayout)|
 | Read: 09 file | [Read: 09 - Forms and Events](https://hamzaahmad97.github.io/reading-notes/Read09-FormsandEvents) |
 | Read: 10 file | [Read: 10 - JS Debugging](https://hamzaahmad97.github.io/reading-notes/Read10-JSDebugging) |
+| Read: 11 file | [Read: 11 - Assorted Topics](https://hamzaahmad97.github.io/reading-notes/Read11-AssortedTopics)|
 
 
 
