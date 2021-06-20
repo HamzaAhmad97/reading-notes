@@ -1,17 +1,5 @@
 ## CREATING STUNNING ANIMATED CHARTS WITH CHART.JS
 
-charts are better than tables
-chart.js relies on HTML's canvas 
-bar charts, line charts, pie charts and more
-
-drawing a line chart
-1. create a canvas element in html
-`<canvas id="buyers" width="600" height="400"></canvas>`
-
-2. retreive the context of the canvas in js
-  var buyers = document.getElementById('buyers').getContext('2d');
-    new Chart(buyers).Line(buyerData);
-3. inside the script define an object that holds the data like the labels for the x-axis and some properties
 
 Charts sometimes carry more information than text or tables, and HTML, CSS and Javascipt combined allow us to create elegent charts like bar charts, line charts, pie charts and more, and this is using **Chart.js**. This is done using the **canvas** element in HTML, which allows you not to just draw charts, but almost anything else you want.
 
