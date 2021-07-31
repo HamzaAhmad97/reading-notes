@@ -2,7 +2,7 @@
 ## Introduction about myself
 I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, graduated in 2020. I have some knowledge on Java and Python, and I am currently on my way to become a full stack engineer. I am interested in AI, ML and web development, I also have a bit of experience in robotic manipulation and modeling. 
 
-## Table of content Code 102
+## Code 102 - Intro to Software Development
 
 | Section             | link          | 
 | -------------       |:-------------:| 
@@ -15,7 +15,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: 06 file       | [Read: 06 - Programming With JavaScript](https://hamzaahmad97.github.io/reading-notes/Read06_ProgrammingWithJavaScript). |
 | Read: 6b file       | [Read: 6b - Design Web Pages With CSS](https://hamzaahmad97.github.io/reading-notes/Read6b_DesignWebPagesWithCSS). |
 
-## Table of content Code 201
+## Code 201 - Foundations of Software Development
 
 | Section             | link          | 
 | -------------       |:-------------:| 
@@ -36,7 +36,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: 14b file | [Read: 14b - What Google Learned About Teams](https://hamzaahmad97.github.io/reading-notes/Read14b-WhatGoogleLearnedAboutTeams) |
 | Read: 14a file | [Read: 14a - CSS Transforms, Transitions, and Animations](https://hamzaahmad97.github.io/reading-notes/Read14a-CSSTransformsTransitionsandAnimations) |
 
-
+## Code 301 - Intermediate Software Development
 
 
 
