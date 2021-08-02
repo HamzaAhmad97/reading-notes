@@ -42,10 +42,12 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | -------------       |:-------------:| 
 | Code 301            |               |
 | Read: Class 01      | [Introduction to React and Components](https://hamzaahmad97.github.io/reading-notes/Read-Class-01) |
+| Read: Class 02      | [State and Props](https://hamzaahmad97.github.io/reading-notes/Read-Class-02) |
+
 
 
 ## Things I want to know more about
-
+React overall :), I still do not know much, which for me, is considered nothing.
 
 
 
