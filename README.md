@@ -43,11 +43,13 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Code 301            |               |
 | Read: Class 01      | [Introduction to React and Components](https://hamzaahmad97.github.io/reading-notes/Read-Class-01) |
 | Read: Class 02      | [State and Props](https://hamzaahmad97.github.io/reading-notes/Read-Class-02) |
+| Read: Class 03      | [Passing Functions as Props](https://hamzaahmad97.github.io/reading-notes/Read-Class-03) |
 
 
 
 ## Things I want to know more about
 React overall :), I still do not know much, which for me, is considered nothing.
+Add Bootstrap and React-Bootstrap to the mix, although it looks a bit easier.
 
 
 
