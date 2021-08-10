@@ -48,6 +48,8 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 05      | [Putting it all together](https://hamzaahmad97.github.io/reading-notes/Read-Class-05) |
 | Read: Class 06 | [NODE.JS & pair programming](https://hamzaahmad97.github.io/reading-notes/Read-Class-06) |
 | Read: Class 07 | [REST](https://hamzaahmad97.github.io/reading-notes/Read-Class-07) |
+| Read: Class 08 | [Not Ready Yet]() |
+| Read: Class 09 | [FUNCTIONAL PROGRAMMING](https://hamzaahmad97.github.io/reading-notes/Read-Class-09) |
 
 
 ## Things I want to know more about
