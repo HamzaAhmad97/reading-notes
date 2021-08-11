@@ -50,6 +50,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 07 | [REST](https://hamzaahmad97.github.io/reading-notes/Read-Class-07) |
 | Read: Class 08 | [APIs](https://hamzaahmad97.github.io/reading-notes/Read-Class-08) |
 | Read: Class 09 | [FUNCTIONAL PROGRAMMING](https://hamzaahmad97.github.io/reading-notes/Read-Class-09) |
+| Read: Class 10 | [In memory storage](https://hamzaahmad97.github.io/reading-notes/Read-Class-10) |
 
 
 ## Things I want to know more about
