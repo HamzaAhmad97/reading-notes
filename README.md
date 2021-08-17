@@ -54,6 +54,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 11 | [Authentication](https://hamzaahmad97.github.io/reading-notes/Read-Class-11) |
 | Read: Class 12 | [Mongo and Mongoose](https://hamzaahmad97.github.io/reading-notes/Read-Class-12) |
 | Read: Class 13 | [CRUD](https://hamzaahmad97.github.io/reading-notes/Read-Class-13) |
+| Read: Class 14 | [CRUD](https://hamzaahmad97.github.io/reading-notes/Read-Class-14) |
 
 
 ## Things I want to know more about
