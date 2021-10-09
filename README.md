@@ -56,10 +56,11 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 13 | [CRUD](https://hamzaahmad97.github.io/reading-notes/Read-Class-13) |
 | Read: Class 14 | [CRUD](https://hamzaahmad97.github.io/reading-notes/Read-Class-14) |
 
+## Code 401 - Advanced Software Development
 
-## Things I want to know more about
-React overall :), I still do not know much, which for me, is considered nothing.
-Add Bootstrap and React-Bootstrap to the mix, although it looks a bit easier.
+| Section             | link          | 
+| -------------       |:-------------:| 
+| Code 401            |               |           
 
 
 
