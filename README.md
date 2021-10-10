@@ -2,7 +2,7 @@
 
 ## What is this all about?
 
-In this repository, I reflect on the things I read about and learn everyday, things that are directly related to web development and software engineering. This repository contains a number of files discussing various topics on languages I am learning/ learned about like JAvaScript, HTML, CSS and Python, in addition to frameworks and tools I have been using. In this page specifically, you can see a number of tables, where each table lists a number of links to the files in this directory.
+In this repository, I reflect on the things I read about and learn everyday during my journey towards becoming a web developer at ASAC and Code Fellows Academy, things that are directly related to web development and software engineering. This repository contains a number of files discussing various topics on languages I am learning/ learned about like JAvaScript, HTML, CSS and Python, in addition to frameworks and tools I have been using. In this page specifically, you can see a number of tables, where each table lists a number of links to the files in this directory.
 
 ## Introduction about myself
 
