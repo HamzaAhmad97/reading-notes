@@ -1,5 +1,9 @@
 # Reading Notes
 
+## What is this all about?
+
+In this repository, I reflect on the things I read about and learn everyday, things that are directly related to web development and software engineering. This repository contains a number of files discussing various topics on languages I am learning/ learned about like JAvaScript, HTML, CSS and Python, in addition to frameworks and tools I have been using. In this page specifically, you can see a number of tables, where each table lists a number of links to the files in this directory.
+
 ## Introduction about myself
 
 I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, graduated in 2020. I have some knowledge on Java and Python, and I am currently on my way to become a full stack engineer. I am interested in AI, ML and web development, I also have a bit of experience in robotic manipulation and modeling.
