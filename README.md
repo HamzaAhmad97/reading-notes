@@ -69,5 +69,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Code 401       |                                                                                                                  |
 | Read: Class 01 | [Pain & suffering, Big O, Names and values in Python ](https://hamzaahmad97.github.io/reading-notes/Read-01-401) |
 | Read: Class 02 | [In Tests We Trust, environment variable name and Recursion](https://hamzaahmad97.github.io/reading-notes/Read-02-401)  |
+| Read: Class 03 | [Reading and Writing to files in Python, Exceptions in Python](https://hamzaahmad97.github.io/reading-notes/Read-03-401)  |
 
 Using Github Pages by Hamza Ahmad.
