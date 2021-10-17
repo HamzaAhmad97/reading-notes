@@ -73,5 +73,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 04 | [Classes and Objects, thinknig recursevily, Coverage and Fixtures](https://hamzaahmad97.github.io/reading-notes/Read-04-401)  |
 | Read: Class 05 | [Big O notation, linked lists](https://hamzaahmad97.github.io/reading-notes/Read-05-401)  |
 | Read: Class 06 | [Random Module, Risk Analysis, Test Coverage](https://hamzaahmad97.github.io/reading-notes/Read-06-401)  |
+| Read: Class 07 | [Global and nonlocal](https://hamzaahmad97.github.io/reading-notes/Read-07-401)  |
 
 Using Github Pages by Hamza Ahmad.
