@@ -75,5 +75,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 06 | [Random Module, Risk Analysis, Test Coverage](https://hamzaahmad97.github.io/reading-notes/Read-06-401)  |
 | Read: Class 07 | [Global and nonlocal](https://hamzaahmad97.github.io/reading-notes/Read-07-401)  |
 | Read: Class 08 | [List Comprehensions in Python](https://hamzaahmad97.github.io/reading-notes/Read-08-401)  |
+| Read: Class 09 | [Dunder methods and probability in python](https://hamzaahmad97.github.io/reading-notes/Read-09-401)  |
 
 Using Github Pages by Hamza Ahmad.
