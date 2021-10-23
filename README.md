@@ -64,18 +64,19 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 
 ## Code 401 - Advanced Software Development
 
-| Section        |                                                       link                                                       |
-| -------------- | :--------------------------------------------------------------------------------------------------------------: |
-| Code 401       |                                                                                                                  |
-| Read: Class 01 | [Pain & suffering, Big O, Names and values in Python ](https://hamzaahmad97.github.io/reading-notes/Read-01-401) |
-| Read: Class 02 | [In Tests We Trust, environment variable name and Recursion](https://hamzaahmad97.github.io/reading-notes/Read-02-401)  |
-| Read: Class 03 | [Reading and Writing to files in Python, Exceptions in Python](https://hamzaahmad97.github.io/reading-notes/Read-03-401)  |
-| Read: Class 04 | [Classes and Objects, thinknig recursevily, Coverage and Fixtures](https://hamzaahmad97.github.io/reading-notes/Read-04-401)  |
-| Read: Class 05 | [Big O notation, linked lists](https://hamzaahmad97.github.io/reading-notes/Read-05-401)  |
-| Read: Class 06 | [Random Module, Risk Analysis, Test Coverage](https://hamzaahmad97.github.io/reading-notes/Read-06-401)  |
-| Read: Class 07 | [Global and nonlocal](https://hamzaahmad97.github.io/reading-notes/Read-07-401)  |
-| Read: Class 08 | [List Comprehensions in Python](https://hamzaahmad97.github.io/reading-notes/Read-08-401)  |
-| Read: Class 09 | [Dunder methods and probability in python](https://hamzaahmad97.github.io/reading-notes/Read-09-401)  |
-| Read: Class 10 | [Stacks and Queues](https://hamzaahmad97.github.io/reading-notes/Read-10-401)  |
+| Section        |                                                             link                                                             |
+| -------------- | :--------------------------------------------------------------------------------------------------------------------------: |
+| Code 401       |                                                                                                                              |
+| Read: Class 01 |       [Pain & suffering, Big O, Names and values in Python ](https://hamzaahmad97.github.io/reading-notes/Read-01-401)       |
+| Read: Class 02 |    [In Tests We Trust, environment variable name and Recursion](https://hamzaahmad97.github.io/reading-notes/Read-02-401)    |
+| Read: Class 03 |   [Reading and Writing to files in Python, Exceptions in Python](https://hamzaahmad97.github.io/reading-notes/Read-03-401)   |
+| Read: Class 04 | [Classes and Objects, thinknig recursevily, Coverage and Fixtures](https://hamzaahmad97.github.io/reading-notes/Read-04-401) |
+| Read: Class 05 |                   [Big O notation, linked lists](https://hamzaahmad97.github.io/reading-notes/Read-05-401)                   |
+| Read: Class 06 |           [Random Module, Risk Analysis, Test Coverage](https://hamzaahmad97.github.io/reading-notes/Read-06-401)            |
+| Read: Class 07 |                       [Global and nonlocal](https://hamzaahmad97.github.io/reading-notes/Read-07-401)                        |
+| Read: Class 08 |                  [List Comprehensions in Python](https://hamzaahmad97.github.io/reading-notes/Read-08-401)                   |
+| Read: Class 09 |             [Dunder methods and probability in python](https://hamzaahmad97.github.io/reading-notes/Read-09-401)             |
+| Read: Class 10 |                        [Stacks and Queues](https://hamzaahmad97.github.io/reading-notes/Read-10-401)                         |
+| Read: Class 11 |                       [Numpy and JupyterLab](https://hamzaahmad97.github.io/reading-notes/Read-11-401)                       |
 
 Using Github Pages by Hamza Ahmad.
