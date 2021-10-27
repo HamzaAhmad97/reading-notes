@@ -81,5 +81,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 12 |                              [Pandas](https://hamzaahmad97.github.io/reading-notes/Read-12-401)                              |
 | Read: Class 13 |                        [Linear Regression](https://hamzaahmad97.github.io/reading-notes/Read-13-401)                         |
 | Read: Class 14 |                        [Matplotlib](https://hamzaahmad97.github.io/reading-notes/Read-14-401)                         |
+| Read: Class 15 |                        [Trees](https://hamzaahmad97.github.io/reading-notes/Read-15-401)                         |
 
 Using Github Pages by Hamza Ahmad.
