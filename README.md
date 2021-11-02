@@ -85,6 +85,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 16 |                        [Machine Learning Intro](https://hamzaahmad97.github.io/reading-notes/Read-16-401)                         |
 | Read: Class 17 |                        [Web Scraping](https://hamzaahmad97.github.io/reading-notes/Read-17-401)                         |
 | Read: Class 18 |                        [Cryptography](https://hamzaahmad97.github.io/reading-notes/Read-18-401)                         |
+| Read: Class 19 |                        [Automation](https://hamzaahmad97.github.io/reading-notes/Read-19-401)                         |
 
 
 Using Github Pages by Hamza Ahmad.
