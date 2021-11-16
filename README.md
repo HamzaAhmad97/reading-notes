@@ -88,5 +88,7 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 19 |                        [Automation](https://hamzaahmad97.github.io/reading-notes/Read-19-401)                         |
 | Read: Class 20 |                        [Django](https://hamzaahmad97.github.io/reading-notes/Read-20-401)                         |
 | Read: Class 21 |                        [Django Models](https://hamzaahmad97.github.io/reading-notes/Read-21-401)                         |
+| Read: Class 22 |                        [Django Forms]()                         |
+| Read: Class 23 |                        [Django Models](https://hamzaahmad97.github.io/reading-notes/Read-23-401)                         |
 
 Using Github Pages by Hamza Ahmad.
