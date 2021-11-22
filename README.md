@@ -93,5 +93,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 24 |                        [Hashtables](https://hamzaahmad97.github.io/reading-notes/Read-24-401)                         |
 | Read: Class 25 |                        [Docker and Django REST APIs](https://hamzaahmad97.github.io/reading-notes/Read-25-401)                         |
 | Read: Class 26 |                        [Django Rest Framework Permissions](https://hamzaahmad97.github.io/reading-notes/Read-26-401)                         |
+| Read: Class 27 |                        [JWT, and production servers](https://hamzaahmad97.github.io/reading-notes/Read-27-401)                         |
 
 Using Github Pages by Hamza Ahmad.
