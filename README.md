@@ -97,5 +97,6 @@ I am Hamza Ahmad, I am 23 years old, I studied mechanical engineering at JUST, g
 | Read: Class 28 |                        [API Deployment](https://hamzaahmad97.github.io/reading-notes/Read-28-401)                         |
 | Read: Class 29 |                        [Graphs](https://hamzaahmad97.github.io/reading-notes/Read-29-401)                         |
 | Read: Class 30 |                        [Whiteboard Interview Tips](https://hamzaahmad97.github.io/reading-notes/Read-30-401)                         |
+| Read: Class 31 |                        [Tailwindcss and Nextjs](https://hamzaahmad97.github.io/reading-notes/Read-31-401)                         |
 
 Using Github Pages by Hamza Ahmad.
